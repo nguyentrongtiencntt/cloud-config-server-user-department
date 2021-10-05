@@ -1,9 +1,6 @@
-welcome: NT K Cloud!
-
-wellcome: NT T Cloud!
-
 add: more data
-
+welcome: NT K Cloud!
+wellcome: NT T Cloud!
 eureka:
   client:
     register-with-eureka:
