@@ -15,7 +15,5 @@ eureka:
     instance:
       hostname: localhost
 hostname: localhost new 
-hostname: localhost new 
-hostname: localhost new 
-hostname: localhost new 
-hostname: localhost new 
+hostnamea: localhost new 
+
